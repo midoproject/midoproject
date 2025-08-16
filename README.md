@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mido!
 
-💻 **Full Stack Developer** | 🌍 Open-Source Enthusiast | 🚀 Crypto & Web3 Learner  
+💻 **Full Stack Developer** | 🌍 Open Source Enthusiast | 🚀 Crypto & Web3 Learner  
 I love crafting clean code, building experimental projects, and exploring decentralized tech.
 
 ---
